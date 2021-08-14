@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251154742361",
+    "project_id": "social-app-bf2f4",
+    "storage_bucket": "social-app-bf2f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251154742361:android:936eefe8f3fb728e32c548",
+        "android_client_info": {
+          "package_name": "com.nemrosim.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251154742361-vcqsrf62tge1vimeprrmtikes14hm5nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuWD4eALaV-dz_GRKj-H7orOwo6yz9cj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251154742361-vcqsrf62tge1vimeprrmtikes14hm5nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
